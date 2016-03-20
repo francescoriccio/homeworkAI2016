@@ -27,6 +27,7 @@ void storeCell(std::string word, std::map<int,Cell>& board_colors)
     board_colors.insert(std::make_pair(cell.idx,cell));
 }
 
+// gringo file.lp | clasp 1 >> asp_solver.ou
 void load(std::map<int,Cell>& board_colors)
 {
     std::ifstream ans_set;
