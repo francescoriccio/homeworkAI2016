@@ -1,0 +1,10 @@
+clasp version 2.1.4
+Reading from stdin
+Solving...
+Answer: 1
+colored_vertex(t,1,r) colored_vertex(t,2,r) colored_vertex(t,3,r) colored_vertex(t,5,r) colored_vertex(t,6,r) colored_vertex(t,11,b) colored_vertex(t,12,b) colored_vertex(t,13,y) colored_vertex(t,14,y) colored_vertex(t,15,y) colored_vertex(e,16,y) colored_vertex(e,9,y) colored_vertex(e,4,r) colored_vertex(e,10,r) colored_vertex(e,7,b) colored_vertex(e,8,b)
+SATISFIABLE
+
+Models      : 1+    
+Time        : 0.006s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time    : 0.000s
