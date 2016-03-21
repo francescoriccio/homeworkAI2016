@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <highgui.h>
+#include <opencv/highgui.h>
 
 #define ROI_SZ 100
 #define ROI_CANVAS ROI_SZ*0.35
